@@ -24,5 +24,3 @@ Game Engines:
 ---
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-# Programming Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shr0mi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
